@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<br/>
+
+[![RevDonz's github activity graph](https://activity-graph.herokuapp.com/graph?username=revdonz&theme=nord&hide_border=true)](https://github.com/revdonz/github-readme-activity-graph)
+
 <!--
 **RevDonz/RevDonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
