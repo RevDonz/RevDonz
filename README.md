@@ -1,3 +1,5 @@
+<img align="right" src="images/hero.svg" width="480px">
+
 ### Hi there 👋
 
 <!-- <img align="right" src="images/hero.png" /> -->
