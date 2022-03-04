@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!-- <img align="right" src="images/hero.png" /> -->
+
+### About Me 👨‍🦱
+- My name is `Reva Doni Aprilio`
+- `Software Engineering` Student at `Telkom University`
+
+### My Statistics 📋
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=revdonz&show_icons=true&theme=nord&hide_border=true" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revdonz&theme=nord&hide_border=true" />
