@@ -1,4 +1,4 @@
-<img align="right" src="images/hero.svg" width="480px">
+<img align="right" src="images/hero.svg" width="400px">
 
 ### Hi there 👋
 
