@@ -7,6 +7,8 @@
 ### About Me 👨‍🦱
 - My name is `Reva Doni Aprilio`
 - `Software Engineering` Student at `Telkom University`
+- Live in `Bandung, Indonesia`
+- `19` Years Old
 
 ### My Statistics 📋
 <p align="center">
